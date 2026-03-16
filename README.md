@@ -63,8 +63,8 @@ endmodule
 
  ```
  
-  Developed by: SABEEHA PARVEEN K
-  RegisterNumber: 212225230233
+  Developed by: Tharunika.E
+  RegisterNumber: 212225040470
 
 
 **RTL Schematic**
